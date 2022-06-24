@@ -7,6 +7,8 @@ Lee C Y, Li C L, Dozat T, et al. FormNet: Structural Encoding beyond Sequential 
 
 Appalaraju S, Jasani B, Kota B U, et al. Docformer: End-to-end transformer for document understanding[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 993-1003.
 
+Li Y, Qian Y, Yu Y, et al. StrucTexT: Structured text understanding with multi-modal Transformers[C]//Proceedings of the 29th ACM International Conference on Multimedia. 2021: 1912-1920.
+
 Xu Y, Xu Y, Lv T, et al. LayoutLMv2: Multi-modal pre-training for visually-rich document understanding[J]. arXiv preprint arXiv:2012.14740, 2020.
 
 Xu Y, Li M, Cui L, et al. Layoutlm: Pre-training of text and layout for document image understanding[C]//Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020: 1192-1200.
